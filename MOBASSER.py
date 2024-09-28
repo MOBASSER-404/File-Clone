@@ -1,6 +1,6 @@
 #-------------------------------------##-------------------------------------#
-# ENCRYPTED BY : ABDUL HAKIM
-# GITHUB : https://github.com/MASTER-404
+# ENCRYPTED BY : MOBASSER RAHMAN XHOWDHURY 
+# GITHUB : https://github.com.com/MOBASSER-404
 #-------------------------------------##-------------------------------------#
 
 import base64
